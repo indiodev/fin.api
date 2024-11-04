@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:02-api-rest}/tmp/app.db",
+      "name": "api-rest-ignite-nodejs"
+    }
+  ],
+  "sqltools.useNodeRuntime": true,
+}
